@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T05:52:57.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:52:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Program.cs",
+              "RelativeDocumentMoniker": "AysuN\\Program.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Program.cs",
+              "RelativeToolTip": "AysuN\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:50:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AysuN\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AysuN\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-30T05:50:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AysuN\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:52:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AysuN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:51:57.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "AysuN\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:47:21.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "AysuN\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:39:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AysuN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AysuN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAL8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:35:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "AysuN\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "AysuN\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:47:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AysuN\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AysuN\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T04:39:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "AysuN\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "AysuN\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:38:53.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AysuN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AysuN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:35:13.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
