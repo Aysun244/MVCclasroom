@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\constants\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\constants\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\repositories\\abstractions\\isliderrepositoycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\repositories\\abstractions\\isliderrepositoycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\repositories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\repositories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|solutionrelative:aysun\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BF13994-6572-4442-ABB9-E7D1EB3CB41B}|AysuN\\AysuN.csproj|c:\\users\\l novbe\\desktop\\mvcclassrom\\aysun\\aysun\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Constants\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "AysuN\\Constants\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Constants\\ConnectionString.cs",
+              "RelativeToolTip": "AysuN\\Constants\\ConnectionString.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:17:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "AysuN\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Models\\Slider.cs",
+              "RelativeToolTip": "AysuN\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:10:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Implementations\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "AysuN\\Repositories\\Implementations\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Implementations\\SliderRepository.cs",
+              "RelativeToolTip": "AysuN\\Repositories\\Implementations\\SliderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:59:34.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ISliderRepositoycs.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Abstractions\\ISliderRepositoycs.cs",
+              "RelativeDocumentMoniker": "AysuN\\Repositories\\Abstractions\\ISliderRepositoycs.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Abstractions\\ISliderRepositoycs.cs",
+              "RelativeToolTip": "AysuN\\Repositories\\Abstractions\\ISliderRepositoycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:59:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "AysuN\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "AysuN\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:57:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -78,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AysuN\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -96,26 +181,27 @@
               "RelativeDocumentMoniker": "AysuN\\Program.cs",
               "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Program.cs",
               "RelativeToolTip": "AysuN\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T05:50:38.144Z"
+              "WhenOpened": "2025-04-30T05:50:38.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AysuN\\ScaffoldingReadMe.txt",
               "ToolTip": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "AysuN\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-30T05:50:26.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Views\\_ViewStart.cshtml",
@@ -127,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Views\\Shared\\_Layout.cshtml",
@@ -139,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Views\\Shop\\Index.cshtml",
@@ -151,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Views\\Blog\\Index.cshtml",
@@ -163,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AysuN\\Views\\Home\\Index.cshtml",
@@ -175,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "AysuN\\Controllers\\ShopController.cs",
@@ -187,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AysuN\\Properties\\launchSettings.json",
@@ -199,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "AysuN\\Controllers\\BlogController.cs",
@@ -211,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\MVCClassrom\\AysuN\\AysuN\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AysuN\\Controllers\\HomeController.cs",
